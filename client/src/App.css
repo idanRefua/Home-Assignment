@@ -1,0 +1,26 @@
+.category-modal-box {
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.home-title {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.category-modal-box-content {
+}
+
+.category-btns {
+  width: 400px;
+  background-color: wheat;
+}
